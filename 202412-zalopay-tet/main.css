@@ -11144,7 +11144,7 @@ body.lock {
   }
 }
 .popup .mai_group.animate_coffeti.animated .mai_box:nth-child(1) {
-  animation: to_begin 1s ease-in-out infinite;
+  animation: to_begin 2s ease-in-out infinite;
 }
 @keyframes to_begin {
   100% {
@@ -11152,7 +11152,7 @@ body.lock {
   }
 }
 .popup .mai_group.animate_coffeti.animated .mai_box:nth-child(2) {
-  animation: to_begin 1s ease-in-out infinite;
+  animation: to_begin 2s ease-in-out infinite;
 }
 @keyframes to_begin {
   100% {
@@ -11184,7 +11184,7 @@ body.lock {
   }
 }
 .popup .mai_group.animate_coffeti.animated .mai_box:nth-child(6) {
-  animation: to_begin 2s ease-in-out infinite;
+  animation: to_begin 1s ease-in-out infinite;
 }
 @keyframes to_begin {
   100% {
