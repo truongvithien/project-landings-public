@@ -9,19 +9,19 @@
   </mask>
   <use xlink:href="#b" fill-rule="evenodd" clip-rule="evenodd"/>
   <use xlink:href="#c" mask="url(#d)"/>
-  <mask id="g" width="111" height="63" x="16" y="2" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+  <mask id="f" width="111" height="63" x="16" y="2" maskUnits="userSpaceOnUse" style="mask-type:alpha">
     <mask id="e" fill="#fff">
       <use xlink:href="#a" fill-rule="evenodd" clip-rule="evenodd"/>
     </mask>
     <use xlink:href="#b" fill-rule="evenodd" clip-rule="evenodd"/>
     <use xlink:href="#c" mask="url(#e)"/>
   </mask>
-  <g mask="url(#g)">
-    <mask id="h" fill="#fff">
+  <g mask="url(#f)">
+    <mask id="g" fill="#fff">
       <use xlink:href="#a" fill-rule="evenodd" clip-rule="evenodd"/>
     </mask>
     <use xlink:href="#b" fill-rule="evenodd" clip-rule="evenodd"/>
-    <use xlink:href="#c" mask="url(#h)"/>
+    <use xlink:href="#c" mask="url(#g)"/>
     <g fill="#0033C9" opacity=".32">
       <path d="M17.76 4.26c0-2.78-2.25-5.03-5.03-5.03 0 2.78 2.25 5.03 5.03 5.03"/>
       <path d="M17.76 4.26c-2.78 0-5.03 2.25-5.03 5.03 2.77 0 5.02-2.25 5.02-5.03z"/>
